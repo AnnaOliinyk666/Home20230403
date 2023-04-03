@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.wrapper input{
+    padding: 15px;
+}
+.wrapper button{
+    padding: 15px;
+}
+.container{
+    margin-top: 50px;
+}
